@@ -1,0 +1,21 @@
+agent-shell-notifications-knockknock.el
+  s_4753cff6636b7e::t_9410b84c6a1a4f 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "93de4519df83582e6b65da7f4eacbde7928c0ade",
+  "prompts": {},
+  "sessions": {
+    "s_4753cff6636b7e": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a49cb058b37ba60749cce6f",
+        "model": "gpt-5.5__dev"
+      },
+      "human_author": "Fan Yang <yangfan.fan@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
