@@ -1,0 +1,47 @@
+agent-shell-notifications-tests.el
+  s_4753cff6636b7e::t_037105719cb733 743-781
+  s_4753cff6636b7e::t_2fab130434dea9 716-742,782-788
+agent-shell-notifications-libnotify.el
+  s_4753cff6636b7e::t_0f3c091d57e573 26-36
+agent-shell-notifications.el
+  s_4753cff6636b7e::t_1889f374ef71b3 1,42,50-62,578-579,633-643,653-663,665-667
+agent-shell-notifications-knockknock.el
+  s_4753cff6636b7e::t_aab829bbe44400 75-85
+README.md
+  s_4753cff6636b7e::t_11924510079571 33-36,72-74,77-81,162,165-173,178-180,209
+agent-shell-notifications-osascript.el
+  s_4753cff6636b7e::t_d1d529cfa333d5 54-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "61bad910e8d01847b98e9847123059daed56c95b",
+  "prompts": {},
+  "sessions": {
+    "s_4753cff6636b7e": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a49cb058b37ba60749cce6f",
+        "model": "gpt-5.5__dev"
+      },
+      "human_author": null
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {
+    "s_4753cff6636b7e": {
+      "tool": "trae",
+      "conversation_id": "6a49cb058b37ba60749cce6f",
+      "session_id": "6a49cb058b37ba60749cce6f",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_4753cff6636b7e::t_ba323bf4dfd936": {
+      "tool": "trae",
+      "conversation_id": "6a49cb058b37ba60749cce6f",
+      "session_id": "6a49cb058b37ba60749cce6f",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
