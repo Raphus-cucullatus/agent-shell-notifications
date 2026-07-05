@@ -1,0 +1,22 @@
+agent-shell-notifications.el
+  s_4753cff6636b7e::t_e7f7792fad810d 28-29,137-140,295-310,313-331,412-418
+  s_4753cff6636b7e::t_fee831290cda5f 28-29,137-140,295-310,313-331,412-418
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "0dd4d51ed88becc38687b2307a9f45e530ff7054",
+  "prompts": {},
+  "sessions": {
+    "s_4753cff6636b7e": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a49cb058b37ba60749cce6f",
+        "model": "gpt-5.5__dev"
+      },
+      "human_author": "Fan Yang <yangfan.fan@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
