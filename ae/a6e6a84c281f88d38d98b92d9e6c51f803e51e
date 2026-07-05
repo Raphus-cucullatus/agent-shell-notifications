@@ -1,15 +1,27 @@
 README.md
   s_4753cff6636b7e::t_8f4d62e8b444d3 33-36,72-74,77-81,162,165-173,178-180,209
+  s_4753cff6636b7e::t_323d7251da2160 33-36,72-74,77-81,162,165-173,178-180,209
+  s_4753cff6636b7e::t_11924510079571 33-36,72-74,77-81,162,165-173,178-180,209
 agent-shell-notifications-knockknock.el
   s_4753cff6636b7e::t_b4859ed08a6a83 75-85
+  s_4753cff6636b7e::t_de7e3f84eb306c 75-85
+  s_4753cff6636b7e::t_aab829bbe44400 75-85 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a49d0718b37ba60749cd0c3","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[75,85]}]}]}
 agent-shell-notifications-libnotify.el
   s_4753cff6636b7e::t_6f88f4b6b521a4 26-36
+  s_4753cff6636b7e::t_449ef402407c52 26-36
+  s_4753cff6636b7e::t_0f3c091d57e573 26-36
 agent-shell-notifications-osascript.el
   s_4753cff6636b7e::t_926443ffaf21e4 54-67
+  s_4753cff6636b7e::t_5d011448027456 54-67
+  s_4753cff6636b7e::t_d1d529cfa333d5 54-67
 agent-shell-notifications-tests.el
   s_4753cff6636b7e::t_02a83a07f7fc11 716-749
+  s_4753cff6636b7e::t_10c227c45b6970 716-749
+  s_4753cff6636b7e::t_2fab130434dea9 716-749
 agent-shell-notifications.el
   s_4753cff6636b7e::t_a420e0f2fc33de 1,42,50-62,578-579,633-643,653-663,665-667
+  s_4753cff6636b7e::t_86e789ea57fdc4 1,42,50-62,578-579,633-643,653-663,665-667
+  s_4753cff6636b7e::t_1889f374ef71b3 1,42,50-62,578-579,633-643,653-663,665-667
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -26,6 +38,36 @@ agent-shell-notifications.el
       "human_author": "Fan Yang <yangfan.fan@bytedance.com>"
     }
   },
-  "attestation_metadata": {},
+  "attestation_metadata": {
+    "agent-shell-notifications-knockknock.el": [
+      {
+        "hash": "s_4753cff6636b7e::t_aab829bbe44400",
+        "line_ranges": [
+          {
+            "Range": [
+              75,
+              85
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a49d0718b37ba60749cd0c3",
+            "tool_type": "agent",
+            "tool_id": "apply_patch",
+            "line_ranges": [
+              {
+                "Range": [
+                  75,
+                  85
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "remote_transcripts": {}
 }
