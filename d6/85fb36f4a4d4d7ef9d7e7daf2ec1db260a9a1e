@@ -1,0 +1,72 @@
+agent-shell-notifications.el
+  s_4753cff6636b7e::t_a89424fcc29b60 1,575-576 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a49e48f8b37ba60749cd892","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Single":1},{"Range":[575,576]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "d685fb36f4a4d4d7ef9d7e7daf2ec1db260a9a1e",
+  "prompts": {},
+  "sessions": {
+    "s_4753cff6636b7e": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a49cb058b37ba60749cce6f",
+        "model": "gpt-5.5__dev"
+      },
+      "human_author": "Fan Yang <yangfan.fan@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {
+    "agent-shell-notifications.el": [
+      {
+        "hash": "s_4753cff6636b7e::t_a89424fcc29b60",
+        "line_ranges": [
+          {
+            "Single": 1
+          },
+          {
+            "Range": [
+              575,
+              576
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a49e48f8b37ba60749cd892",
+            "tool_type": "agent",
+            "tool_id": "apply_patch",
+            "line_ranges": [
+              {
+                "Single": 1
+              },
+              {
+                "Range": [
+                  575,
+                  576
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_4753cff6636b7e": {
+      "tool": "trae",
+      "conversation_id": "6a49cb058b37ba60749cce6f",
+      "session_id": "6a49cb058b37ba60749cce6f",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_4753cff6636b7e::t_a89424fcc29b60": {
+      "tool": "trae",
+      "conversation_id": "6a49cb058b37ba60749cce6f",
+      "session_id": "6a49cb058b37ba60749cce6f",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
