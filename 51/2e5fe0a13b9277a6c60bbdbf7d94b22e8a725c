@@ -1,0 +1,31 @@
+README.md
+  s_4753cff6636b7e::t_2c3cf42d1f153a 33-36,72-74,77-81,162,165-173,178-180,209
+agent-shell-notifications-knockknock.el
+  s_4753cff6636b7e::t_6afeb294939a61 75-85
+agent-shell-notifications-libnotify.el
+  s_4753cff6636b7e::t_a3229a31397e2d 26-36
+agent-shell-notifications-osascript.el
+  s_4753cff6636b7e::t_dad40e929fd73c 54-67
+agent-shell-notifications-tests.el
+  s_4753cff6636b7e::t_9e4664561dbb58 716-749
+agent-shell-notifications.el
+  s_4753cff6636b7e::t_3b1a68d43474e6 1,42,50-62,578-579,633-643,653-663,665-667
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "512e5fe0a13b9277a6c60bbdbf7d94b22e8a725c",
+  "prompts": {},
+  "sessions": {
+    "s_4753cff6636b7e": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a49cb058b37ba60749cce6f",
+        "model": "gpt-5.5__dev"
+      },
+      "human_author": "Fan Yang <yangfan.fan@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
