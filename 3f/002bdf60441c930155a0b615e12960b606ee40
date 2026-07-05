@@ -1,5 +1,6 @@
 agent-shell-notifications.el
   s_4753cff6636b7e::t_e7f7792fad810d 28-29,138-141,296-311,314-332,413-419
+  s_4753cff6636b7e::t_fee831290cda5f 28-29,138-141,296-311,314-332,413-419 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a49ddc98b37ba60749cd59f","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[28,29]},{"Range":[138,141]},{"Range":[296,311]},{"Range":[314,332]},{"Range":[413,419]}]}]}
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -16,6 +17,84 @@ agent-shell-notifications.el
       "human_author": "Fan Yang <yangfan.fan@bytedance.com>"
     }
   },
-  "attestation_metadata": {},
+  "attestation_metadata": {
+    "agent-shell-notifications.el": [
+      {
+        "hash": "s_4753cff6636b7e::t_fee831290cda5f",
+        "line_ranges": [
+          {
+            "Range": [
+              28,
+              29
+            ]
+          },
+          {
+            "Range": [
+              138,
+              141
+            ]
+          },
+          {
+            "Range": [
+              296,
+              311
+            ]
+          },
+          {
+            "Range": [
+              314,
+              332
+            ]
+          },
+          {
+            "Range": [
+              413,
+              419
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a49ddc98b37ba60749cd59f",
+            "tool_type": "agent",
+            "tool_id": "apply_patch",
+            "line_ranges": [
+              {
+                "Range": [
+                  28,
+                  29
+                ]
+              },
+              {
+                "Range": [
+                  138,
+                  141
+                ]
+              },
+              {
+                "Range": [
+                  296,
+                  311
+                ]
+              },
+              {
+                "Range": [
+                  314,
+                  332
+                ]
+              },
+              {
+                "Range": [
+                  413,
+                  419
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "remote_transcripts": {}
 }
