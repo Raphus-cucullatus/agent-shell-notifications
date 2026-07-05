@@ -4,12 +4,40 @@ agent-shell-notifications-tests.el
 README.md
   s_4753cff6636b7e::t_ce10b3236a4959 34-35,60-86 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a49df028b37ba60749cd689","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[34,35]},{"Range":[60,86]}]}]}
   s_4753cff6636b7e::t_393ca753bbf5f5 87
+  s_4753cff6636b7e::t_a8fb000c2a5e55 60-71,75-76,87
+  s_4753cff6636b7e::t_75cde860ea689b 60-71,75-76,87
+  s_4753cff6636b7e::t_ebaba8e1e17a45 60-71,75-76,87
+  s_4753cff6636b7e::t_e1c40199d49152 60-71,75-76,87
+  s_4753cff6636b7e::t_c88ed77bf9c955 60-71,75-76,87
+  s_4753cff6636b7e::t_7aeddd4df404ba 60-71,75-76,87
+  s_4753cff6636b7e::t_f842db441531fb 60-71,75-76,87
+  s_4753cff6636b7e::t_777929d2642343 60-71,75-76,87
+  s_4753cff6636b7e::t_e520482b0293e3 60-71,75-76,87
 agent-shell-notifications-osascript.el
   s_4753cff6636b7e::t_da80103fe92eb8 56-69 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a49df0b8b37ba60749cd6a1","tool_type":"agent","tool_id":"apply_patch","line_ranges":[{"Range":[56,69]}]}]}
   s_4753cff6636b7e::t_b25df01d4577fa 53-55
   s_4753cff6636b7e::t_be12a210d38c6f 70-72
+  s_4753cff6636b7e::t_b4937e11e93d83 1-55,70-73
+  s_4753cff6636b7e::t_0dfad51be48fd9 32-33
+  s_4753cff6636b7e::t_92853ad5e37d6a 29-31
+  s_4753cff6636b7e::t_ac5d020644e2b4 34-36
+  s_4753cff6636b7e::t_db221bef61b648 1-31,34-55,70-73
+  s_4753cff6636b7e::t_9258bf4acef08a 1-31,34-55,70-73
+  s_4753cff6636b7e::t_28ec3c4d797d36 1-31,34-55,70-73
+  s_4753cff6636b7e::t_331d290acae501 1-31,34-55,70-73
+  s_4753cff6636b7e::t_53e660a159d990 1-31,34-55,70-73
+  s_4753cff6636b7e::t_97513d8c036298 1-31,34-55,70-73
+  s_4753cff6636b7e::t_e3ad3417a97ba7 1-31,34-55,70-73
 agent-shell-notifications.el
   s_4753cff6636b7e::t_0b0bdc5b6d51cb 53
+  s_4753cff6636b7e::t_1115135ba7d5e7 53
+  s_4753cff6636b7e::t_a421efa743de90 53
+  s_4753cff6636b7e::t_5234839e40d411 53
+  s_4753cff6636b7e::t_6959f0fc48cef3 53
+  s_4753cff6636b7e::t_7589a86bef270a 53
+  s_4753cff6636b7e::t_5a8e519ab323f7 53
+  s_4753cff6636b7e::t_70bdde6147ac22 53
+  s_4753cff6636b7e::t_82baf1c545277a 53
 ---
 {
   "schema_version": "authorship/3.0.0",
