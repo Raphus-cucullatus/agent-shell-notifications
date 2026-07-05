@@ -1,0 +1,37 @@
+agent-shell-notifications-libnotify.el
+  s_4753cff6636b7e::t_0f3c091d57e573 26-36
+README.md
+  s_4753cff6636b7e::t_b3aa57e98f72c1 83,101-103,220-222
+  s_4753cff6636b7e::t_ebe7699bdb33f6 80-82,84-85,216-217
+  s_4753cff6636b7e::t_11924510079571 33-36,72-74,77-79,86,169,172-180,185-187
+agent-shell-notifications.el
+  s_4753cff6636b7e::t_a0478092de5f43 48-49
+  s_4753cff6636b7e::t_1889f374ef71b3 1,575-576,630-640
+  s_4753cff6636b7e::t_dcf2e55bea6ef2 35-40,50-51,57,650,652-657
+agent-shell-notifications-tests.el
+  s_4753cff6636b7e::t_037105719cb733 776-814
+  s_4753cff6636b7e::t_cac54a013f2a8f 716-717,734-766
+  s_4753cff6636b7e::t_2fab130434dea9 718-733,767-775,815-821
+agent-shell-notifications-osascript.el
+  s_4753cff6636b7e::t_d1d529cfa333d5 56-69
+agent-shell-notifications-knockknock.el
+  s_4753cff6636b7e::t_aab829bbe44400 75-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "98827ad9cbec8829f3daec752e8dd86051231a35",
+  "prompts": {},
+  "sessions": {
+    "s_4753cff6636b7e": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a49cb058b37ba60749cce6f",
+        "model": "gpt-5.5__dev"
+      },
+      "human_author": null
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
