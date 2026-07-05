@@ -1,9 +1,12 @@
 README.md
   s_4753cff6636b7e::t_777929d2642343 58-78
+  s_4753cff6636b7e::t_e520482b0293e3 58-78
 agent-shell-notifications-osascript.el
   s_4753cff6636b7e::t_97513d8c036298 1-67
+  s_4753cff6636b7e::t_e3ad3417a97ba7 1-67
 agent-shell-notifications.el
   s_4753cff6636b7e::t_70bdde6147ac22 28-29,45,138-141,296-311,314-332,413-419
+  s_4753cff6636b7e::t_82baf1c545277a 28-29,45,138-141,296-311,314-332,413-419
 ---
 {
   "schema_version": "authorship/3.0.0",
